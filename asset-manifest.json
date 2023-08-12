@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Gijutsu/static/css/main.b44ac5dc.css",
+    "main.js": "/Gijutsu/static/js/main.be3645d0.js",
+    "static/media/Group 2837.png": "/Gijutsu/static/media/Group 2837.dd5a53c3acab5a7ed52e.png",
+    "static/media/Group 314.png": "/Gijutsu/static/media/Group 314.7e4d239d06d2140c32fe.png",
+    "static/media/Group 315.png": "/Gijutsu/static/media/Group 315.d0a8abe6050ccfcc3dc8.png",
+    "static/media/Group 330.png": "/Gijutsu/static/media/Group 330.6065c1594aa7a140ad33.png",
+    "static/media/Group 340.png": "/Gijutsu/static/media/Group 340.4782b579488bbe9fdf90.png",
+    "static/media/Group 310.png": "/Gijutsu/static/media/Group 310.4b70c22c8f54cffd9a46.png",
+    "static/media/Group 308.png": "/Gijutsu/static/media/Group 308.0e9bf8602543f98b1f3e.png",
+    "static/media/Group 318.png": "/Gijutsu/static/media/Group 318.778ac0a832e3a56f31aa.png",
+    "static/media/Group 2839.png": "/Gijutsu/static/media/Group 2839.bf0d9402aef4ebd25957.png",
+    "static/media/Vector 408.png": "/Gijutsu/static/media/Vector 408.fd1f38c01fb383622b1b.png",
+    "static/media/Avatar.png": "/Gijutsu/static/media/Avatar.6fae1bf6977a16064a3d.png",
+    "static/media/Frame 824.png": "/Gijutsu/static/media/Frame 824.0ce5ad07b311bfbc6d31.png",
+    "static/media/Group 2843.png": "/Gijutsu/static/media/Group 2843.642ca5cacf7a84ea5a98.png",
+    "static/media/Vector 3.png": "/Gijutsu/static/media/Vector 3.b9579f9308e780e1a2e2.png",
+    "static/media/Vector 4.png": "/Gijutsu/static/media/Vector 4.0c4390bbe7f09e22d012.png",
+    "static/media/Vector 10.png": "/Gijutsu/static/media/Vector 10.46bf082d9a4aac315d3d.png",
+    "static/media/Vector 12.png": "/Gijutsu/static/media/Vector 12.6b2ff06ad9997f4cd97b.png",
+    "static/media/Vector 5.png": "/Gijutsu/static/media/Vector 5.6addf931afc8cb990799.png",
+    "static/media/Group 313.png": "/Gijutsu/static/media/Group 313.852c5bec1b8711ac75f5.png",
+    "static/media/Group 2836.png": "/Gijutsu/static/media/Group 2836.763f58ec7711e448e18a.png",
+    "static/media/Frame 854.png": "/Gijutsu/static/media/Frame 854.67f329f6fd8de35b5367.png",
+    "static/media/Vector 11.png": "/Gijutsu/static/media/Vector 11.e3a0529dbd48a075c4a6.png",
+    "index.html": "/Gijutsu/index.html",
+    "main.b44ac5dc.css.map": "/Gijutsu/static/css/main.b44ac5dc.css.map",
+    "main.be3645d0.js.map": "/Gijutsu/static/js/main.be3645d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b44ac5dc.css",
+    "static/js/main.be3645d0.js"
+  ]
+}
