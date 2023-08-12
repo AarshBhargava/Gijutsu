@@ -1,0 +1,62 @@
+.start__headline{
+    color: var(--light, #FFF);
+    text-align: center;
+    font-family: Space Mono;
+    font-size: 4.5vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 4vw;
+}
+
+.start__content{
+    display: flex;
+    justify-content: center;
+    gap: 2vw;
+}
+
+.start__vector{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2vw;
+    width: 30%;
+    height: 50%;
+}
+
+.start__left__text{
+    display: flex;
+    width: 22%;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    text-align: center;
+    color: white;
+    font-family: 'Nanum Pen Script';
+    font-size: 2.4vw;
+    font-style: normal;
+    font-weight: 6vw;
+    line-height: 2.8vw;
+    text-transform: uppercase;
+    background: linear-gradient(to bottom right, rgba(130,180,255,1),rgba(191,240,255,1));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.start__right__text{
+    display: flex;
+    width: 20%;
+    margin: 4.5vw 0vw 4.5vw 0vw;
+    flex-direction: column;
+    flex-shrink: 0;
+    font-family: DM Sans;
+    font-size: 1.2vw;
+    font-style: normal;
+    font-weight: 8vw;
+    line-height: 2.2vw;
+    color: white;
+    background: linear-gradient(to bottom right, rgba(130,180,255,1),rgba(191,240,255,1));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}

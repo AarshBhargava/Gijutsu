@@ -1,0 +1,22 @@
+.greycard{
+    display: flex;
+    padding: 1.4vw;
+    align-items: flex-start;
+    gap: 1vw;
+    flex: 1 0 0;
+    border-radius: 20px;
+    background: var(--gray, #282828);
+}
+
+.greycard__content{
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 0;
+    background: none;
+    color: var(--light, #FFF);
+    font-family: DM Sans;
+    font-size: 1.2vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 2vw;
+}

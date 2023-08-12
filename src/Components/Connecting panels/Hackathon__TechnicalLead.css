@@ -1,0 +1,46 @@
+.htt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6vw;
+}
+
+.htt__left__text{
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    flex-shrink: 0;
+    font-family: DM Sans;
+    font-size: 1.1vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5vw;
+    background: linear-gradient(to right, rgba(224,166,244,1),rgba(129,179,254,1));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.htt__right__text{
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    font-family: Nanum Pen Script;
+    font-size: 2.8vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 2.8vw;
+    text-transform: uppercase;
+    background: linear-gradient(to right, rgba(224,166,244,1),rgba(129,179,254,1));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.hacktotech-image{
+    width: 35%;
+    height: 40%;
+    flex-shrink: 0;
+}

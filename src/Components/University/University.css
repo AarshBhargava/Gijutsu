@@ -1,0 +1,81 @@
+.university{
+    display: flex;
+    padding: 7vw;
+    justify-content: center;
+    align-items: center;    
+    align-self: stretch;
+}
+
+.university-image{
+    width: 95%;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: flex-start;
+    gap: 2.2vw;
+    flex: 1 0 0;
+}
+
+.university-headline{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    align-self: stretch;
+}
+
+.university-headline h2{
+    display: flex;
+    flex: 1 0 0;    
+    font-family: 'Space Mono';
+    margin: 0;
+    font-size: 5vw;
+    font-style: normal;
+    font-weight: 700;
+    color: white;
+    background: linear-gradient(to right, rgba(130,180,255,1), rgba(191,240,255,1));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.university-left{
+    width: 40%;
+}
+
+.university-headline h4{
+    display: flex;
+    margin: 0;
+    flex-direction: column;
+    font-family: 'DM Sans';
+    font-size: 2vw;
+    font-style: normal;
+    font-weight: 700;
+    color: white;
+    background: linear-gradient(to right, rgba(130,180,255,1), rgba(191,240,255,1));
+    background-clip: text;   
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.university-text{
+    display: flex;
+    flex-direction: column;
+    align-self: stretch;
+    color: var(--light, #FFF);
+    font-family: DM Sans;
+    font-size: 2.2vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 3.2vw;
+}
+
+.greycards{
+    display: flex;
+    align-items: flex-start;
+    gap: 2vw;
+    align-self: stretch;
+}

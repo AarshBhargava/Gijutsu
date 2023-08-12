@@ -1,0 +1,67 @@
+.today{
+    display: flex;
+    padding: 5vw;
+    justify-content: center;
+    align-items: center;
+    gap: 5vw;
+    align-self: stretch;
+}
+
+.today__content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 50%;
+    gap: 2.2vw;
+    flex: 1 0 0;
+}
+
+.today__headline{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    align-self: stretch;
+}
+
+.today__headline h2{
+    display: flex;
+    flex: 1 0 0;
+    margin: 0;
+    font-family: 'Space Mono';
+    font-size: 5vw;
+    font-style: normal;
+    font-weight: 700;
+    color: white;
+    background: var(--gradient-grape, linear-gradient(270deg, #DBA6F4 0%, #A981FE 100%));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.today__text{
+    display: flex;
+    flex-direction: column;
+    align-self: stretch;
+    color: var(--light, #FFF);
+    font-family: DM Sans;
+    font-size: 2.2vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 3.2vw;
+}
+
+.dogs{
+    height: 25vw;
+}
+
+.today__image__panel{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.today__image{
+    width: 80%;
+}

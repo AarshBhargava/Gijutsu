@@ -1,0 +1,40 @@
+.skills{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3vw;
+    text-align: center;
+}
+.skills__headline{
+    color: var(--light, #FFF);
+    text-align: center;
+    font-family: Space Mono;
+    font-size: 3vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 2vw;
+}
+
+.skills__div1{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 2vw;
+}
+
+.skills__div2{
+    display: flex;
+    width: auto;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 2vw;
+}
+
+.skill__vector{
+    display: flex;
+    width: 25%;
+    height: 35%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

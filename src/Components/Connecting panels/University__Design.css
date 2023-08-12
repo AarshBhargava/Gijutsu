@@ -1,0 +1,30 @@
+.university__design__content{
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    font-family: 'Nanum Pen Script';
+    font-size: 2.8vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 2.8vw;
+    text-transform: uppercase;
+    background: linear-gradient(to bottom right, rgba(192,240,255,1), rgba(169,254,129,1));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+
+.university__design__vector{
+    width: 35%;
+    height: 40%;
+    flex-shrink: 0;
+}
+
+.university__design{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

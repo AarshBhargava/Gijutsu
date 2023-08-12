@@ -1,0 +1,21 @@
+.skill__box{
+    display: flex;
+    padding: 1vw 1.5vw;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: DM Sans;
+    font-size: 0.8vw;
+    font-style: normal;
+    font-weight: 13vw;
+    border: 0.3vw solid white;
+    line-height: 2vw;
+    border-radius: 4vw;
+}
+
+.skill__text{
+    background: linear-gradient(to bottom right, rgba(170,255,130,1), rgba(255,229,151,1));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
